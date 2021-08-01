@@ -1,0 +1,8 @@
+6. Jelaskan mengenai command git yang sudah pernah kamu coba!
+
+git init = membuat git sistem.
+git add = membuat file dan folder tersimpan untuk di commit.
+git commit = menambah catatan pada push yang diberikan
+git fetch = untuk menyamakan yg di remote dengan di lokal
+git pull = untuk menarik semua file dan folder pada branch yg sama
+git push = untuk menaruh pada branch yg kita kerjakan
