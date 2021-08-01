@@ -1,0 +1,4 @@
+2. Jelaskan peran product owner, developer dan scrum master!
+ product owner:  orang yang menangani product backlog
+ develepor :sebuah tim yang terdiri dari berbagai macam peran yang dibutuhkan untuk membangun produk perangkat lunak
+ scrum master : fokus terhadap kesuksesan implementasi proses perangkat lunak bernama Scrum
