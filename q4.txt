@@ -1,0 +1,3 @@
+4. Kenapa kita harus menggunakan version control system untuk berkolaborasi dalam mengembangkan aplikasi?
+    karena VCS itu melindungi kode sumber dari kerusakan dan degradasi dari human error dan konsekuensi lainnya yang tidak diinginkan.
+    dan VCS melacak semua perubahan kode yang dilakukan oleh para engineer dan membantu mencegah terjadinya konflik. 
