@@ -1,0 +1,2 @@
+Scrum Event berisi semua event atau kejadian yang berada pada bagian sprint. Scrum Master bertanggung jawab untuk
+memastikan jalannya Scrum pada suatu tim maupun organisasi.
