@@ -1,0 +1,4 @@
+5. Apa beda git pull dan git fetch?
+
+git pull menarik seluruh file dan folder yang hanya berada di branch kita sekarang.
+git fetch menyamakan seluruh isi yg berada di seluruh lokal dengan remote.
